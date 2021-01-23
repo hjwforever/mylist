@@ -2,4 +2,4 @@
 
 > 大致效果预览图
 
-    ![mylist](temp/myList.png)
+    ![mylist](temp\myList.png)
